@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=Maxence+%E2%80%94+product+%26+code;Je+fabrique+des+outils+qui+servent+vraiment;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP8266" alt="Maxence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=didux123+%E2%80%94+product+%26+code;Je+fabrique+des+outils+qui+servent+vraiment;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP8266" alt="didux123" />
 
 <br/>
 
@@ -85,23 +85,8 @@ Ne passe aucun ordre — il aide à décider, c'est tout.
 
 ---
 
-### 📊 Activité
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=didux123&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&stroke=8b949e&date_format=j%20M%5B%20Y%5D&locale=fr" alt="séries de contributions" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/2F81F7/didux123" width="100%" alt="calendrier de contributions" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:maxencedemonteynard@yahoo.fr"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=2F81F7" alt="Email" /></a>
 <a href="https://github.com/didux123"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=2F81F7" alt="GitHub" /></a>
 
 <sub>« Le meilleur code est celui que quelqu'un utilise tous les jours. »</sub>

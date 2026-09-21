@@ -53,31 +53,31 @@ captif, OTA. Boîtier paramétrique publié sur MakerWorld.
 </td>
 <td width="50%" valign="top">
 
-#### 🚗 GlucoPilot
+#### 🚗 [GlucoPilot](https://github.com/didux123/glucopilot)
 Glycémie temps réel sur l'écran **CarPlay**, sans entitlement Apple : Live
 Activity, widget, et App Intent Siri « ma glycémie ».
 
-`Swift` `SwiftUI` `WidgetKit` · <sub>à publier</sub>
+`Swift` `SwiftUI` `WidgetKit`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎙️ StoryBox
+#### 🎙️ [StoryBox](https://github.com/didux123/storybox)
 Conteur d'histoires hors-ligne pour Raspberry Pi : STT français, planification
 LLM, narration TTS. De la voix de l'enfant à l'histoire racontée.
 
-`Python` `Docker` `LLM` · <sub>à publier</sub>
+`Python` `Docker` `LLM`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📈 pea-screener
+#### 📈 [pea-screener](https://github.com/didux123/pea-screener)
 Screener d'actions européennes éligibles au PEA, auto-hébergé.
 Ne passe aucun ordre — il aide à décider, c'est tout.
 
-`Python` `Docker` · <sub>à publier</sub>
+`Python` `Docker`
 
 </td>
 </tr>
@@ -88,7 +88,5 @@ Ne passe aucun ordre — il aide à décider, c'est tout.
 <div align="center">
 
 <a href="https://github.com/didux123"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=2F81F7" alt="GitHub" /></a>
-
-<sub>« Le meilleur code est celui que quelqu'un utilise tous les jours. »</sub>
 
 </div>

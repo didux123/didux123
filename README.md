@@ -81,6 +81,19 @@ Ne passe aucun ordre — il aide à décider, c'est tout.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🐿️ [Cachette](https://github.com/didux123/cachette)
+Inventaire de matériel médical multi-lieux pour traitement chronique : où est
+quoi, combien il en reste, ce qui périme bientôt. **100 % locale — aucun compte,
+aucun serveur, rien ne quitte le téléphone.** Base médicaments embarquée,
+dictée vocale traitée sur l'appareil, verrouillage Face ID.
+
+`Swift` `SwiftUI` `SwiftData` `offline-first`
+
+</td>
+</tr>
 </table>
 
 ---

@@ -5,7 +5,6 @@
 <br/>
 
 <a href="https://github.com/didux123?tab=repositories"><img src="https://img.shields.io/badge/Projets-60%2B-2F81F7?style=flat-square&labelColor=161b22" alt="Projets" /></a>
-<img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Paris-2F81F7?style=flat-square&labelColor=161b22" alt="Paris" />
 <img src="https://img.shields.io/badge/Focus-IA%20appliqu%C3%A9e%20%26%20embarqu%C3%A9-2F81F7?style=flat-square&labelColor=161b22" alt="Focus" />
 
 </div>

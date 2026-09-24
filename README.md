@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=didux123+%E2%80%94+product+%26+code;Je+fabrique+des+outils+qui+servent+vraiment;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP8266" alt="didux123" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=didux123+%E2%80%94+product+%26+code;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP8266" alt="didux123" />
 
 <br/>
 
@@ -8,19 +8,6 @@
 <img src="https://img.shields.io/badge/Focus-IA%20appliqu%C3%A9e%20%26%20embarqu%C3%A9-2F81F7?style=flat-square&labelColor=161b22" alt="Focus" />
 
 </div>
-
----
-
-### Bonjour 👋
-
-Je bosse sur des **produits du quotidien** : une lampe qui affiche une glycémie,
-une app secouriste, un scoreboard de hockey subaquatique, un screener PEA
-auto-hébergé. Le point commun : quelqu'un a un vrai problème, je livre
-l'outil qui le règle — de l'électronique au front, en passant par l'API.
-
-- 🔭 En ce moment : apps iOS/SwiftUI, agents IA appliqués, homelab auto-hébergé
-- 🌱 J'apprends : firmware ESP32, watermarking audio & provenance IA
-- ⚡ La plupart de mes dépôts sont privés (clients & travail) — ci-dessous ce que je peux montrer
 
 ---
 
